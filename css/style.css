@@ -1,0 +1,5 @@
+html{scroll-behavior:smooth}body{margin:0;font-family:Arial,sans-serif}
+.nav{position:sticky;top:0;background:#fff;padding:14px;display:flex;gap:16px;border-bottom:1px solid #ddd}
+.nav .btn{margin-left:auto;background:#2f7d32;color:#fff;padding:8px 14px;text-decoration:none;border-radius:20px}
+.hero{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#e9e2d3}
+section{padding:80px 20px;max-width:1000px;margin:auto}
